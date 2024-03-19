@@ -1,4 +1,12 @@
-This is company team members template using HTML5, CSS3
-css and html combine in one file index.html
-demo is here
+Meet Team
+====================
+
+Using Html,Css 
+css and html is combine in one file index.html
+---------------------
+
+DEMO ---->
+---------------------
 https://meetteamnulltech.netlify.app/
+
+ 
